@@ -1,0 +1,7 @@
+How It Works?
+
+1) The program presents a menu of operations to the user.
+2) The user selects an operation (Add, Subtract, Multiply, Divide, Exit).
+3) The user inputs two numbers.
+4) The program performs the selected operation and displays the result.
+5) The program handles invalid inputs and prevents division by zero.
